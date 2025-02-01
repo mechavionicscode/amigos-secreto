@@ -68,4 +68,4 @@ function sortearAmigo() {
     // Limpiar la lista de amigos en pantalla (no del array)
     document.getElementById("listaAmigos").innerHTML = "";
 
-     
+} 
