@@ -11,7 +11,7 @@ Este es un proyecto simple en **JavaScript, HTML y CSS** que permite **agregar a
 ✅ Evita nombres duplicados en la lista.  
 ✅ Muestra la lista de amigos en la página.  
 ✅ Realiza un **sorteo aleatorio** entre los amigos agregados.  
-✅ Permite **reiniciar el juego** después del sorteo.  
+ 
 
 ---
 
