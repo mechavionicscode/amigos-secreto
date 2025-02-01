@@ -68,4 +68,20 @@ function sortearAmigo() {
     // Limpiar la lista de amigos en pantalla (no del array)
     document.getElementById("listaAmigos").innerHTML = "";
 
-} 
+     /*//Vaciar el array de amigos para reiniciar el juego
+     amigos = [];
+}
+    // 5. Función para reiniciar el juego manualmente
+function reiniciarJuego() {
+    // Vaciar el array de amigos
+    amigos = [];
+
+    // Limpiar la lista en pantalla
+    document.getElementById("listaAmigos").innerHTML = "";
+    
+    // Limpiar el resultado en pantalla
+    document.getElementById("resultado").innerHTML = "";
+
+    alert("Juego reiniciado. Agrega nuevos amigos para empezar de nuevo.");*/
+
+}
